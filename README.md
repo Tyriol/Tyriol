@@ -1,10 +1,16 @@
-![Profile Header](./github-header-image.png)
+![Hi I'm Ryan 👋](./github-header-image.png)
 
 <p align="left"><a href="ryanshaunsmith@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/@Kirisin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ryanshaunsmith" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<h3 align="left">🌱 I’m embarking on a learning journey through The School of Code to better myself and do something I've always wanted to do.
+<h3 align="left">
 
-📖 In the 13 weeks so far I've covered a range of aspects, and have discovered that I have an affinity for Fullstack development, really loving seeing an application build from the ground up and being involved in all aspects of it.</h3>
+🌱 I’ve embarked on a learning journey that started at The School of Code, to better myself and do something I've always wanted to do.
+
+📖 In the 13 weeks so far I've covered a range of aspects, and have discovered that I have an affinity for Fullstack development, really loving seeing an application build from the ground up and being involved in all aspects of it.
+
+🧠 I don't see this journey ending, I've not felt this way in a long time, and I want to keep learning and growing. I'm so excited for whatever comes next!
+
+</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
