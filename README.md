@@ -8,7 +8,7 @@
 
 🏢 I'm an ex-Agile Coach and Scrum Master, but that doesn't mean I've lost the skills those roles taught me and still use them all the time.
 
-🌱 I’m following my passion, learning to code, building exiting apps and really stretching my brain with problem solving and continuous learning.
+🌱 I’m following my passion, learning to code, building exciting apps and really stretching my brain with problem solving and continuous learning.
 
 📖 I've recently completed the <a href="https://schoolofcode.co.uk/">School of Code</a> bootcamp which has helped me discover an affinity for full-stack development, though my current strengths reside largely in Front-end and Back-end Development. I love seeing an app develop from the ground up, and having a hand in all aspects of it so I can learn more!
 
@@ -27,11 +27,11 @@
 
 **<h3 align="left">I love to code with:</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: start;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px">
@@ -45,6 +45,7 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px">
  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px">
  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="32" alt="Supabase" style="margin-right: 4px">
+ <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="32"alt="Playwright" style="margin-right: 4px">
  </div>
 
 **<h3 align="left">GitHub Stats</h3>**
