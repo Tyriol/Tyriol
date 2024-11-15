@@ -6,7 +6,7 @@
 
 <p>
 
-🏢 I'm an ex-Agile Coach and Scrum Master, but that doesn't mean I've lost the skills those roles taught me and still use them all the time.
+🏢 I'm an former Agile Coach and Scrum Master, but that doesn't mean I've lost the skills those roles taught me and still use them all the time.
 
 🌱 I’m following my passion, learning to code, building exciting apps and really stretching my brain with problem solving and continuous learning.
 
