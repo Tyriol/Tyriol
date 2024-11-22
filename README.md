@@ -6,7 +6,7 @@
 
 <p>
 
-🏢 I'm an former Agile Coach and Scrum Master, but that doesn't mean I've lost the skills those roles taught me and still use them all the time.
+🏢 I'm a former Agile Coach and Scrum Master, but that doesn't mean I've lost the skills those roles taught me and still use them all the time.
 
 🌱 I’m following my passion, learning to code, building exciting apps and really stretching my brain with problem solving and continuous learning.
 
@@ -21,7 +21,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Developing a Learning Audit App using React and Node.js**
-- 🌱 I'm currently learning: **More about Vanilla JavaScript/TypeScript and React.js**
+- 🌱 I'm currently learning: **More about Vanilla JavaScript(classes!)/TypeScript and React.js**
 - 💡 On my hitlist to learn: **Python, AI Engineering**
 - 💬 Ask me about: **My Projects, my prior experience or just anything you want, I'd love to chat!**
 
