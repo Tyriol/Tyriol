@@ -36,7 +36,7 @@ I love seeing an app develop from the ground up, and having a hand in all aspect
 
 **<h3 align="left">I love to code with:</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: start;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> 
@@ -49,13 +49,17 @@ I love seeing an app develop from the ground up, and having a hand in all aspect
 **<h3 align="left">I have experience with:</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
- <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
- <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px">
- <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px">
- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px">
- <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="32" alt="Supabase" style="margin-right: 4px">
- <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="32"alt="Playwright" style="margin-right: 4px">
- </div>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="32" alt="Supabase" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="32"alt="Playwright" style="margin-right: 4px">
+</div>
+
+**<h3 align="left">CodeWars Stats</h3>**
+
+<img src="https://www.codewars.com/users/Tyriol/badges/large">
 
 **<h3 align="left">GitHub Stats</h3>**
 
